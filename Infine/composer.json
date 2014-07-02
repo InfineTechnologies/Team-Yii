@@ -1,8 +1,8 @@
 {
 	"name": "yiisoft/yii2-app-basic",
-	"description": "Yii 2 Basic Application Template",
+	"description": "Infine Technlogies",
 	"keywords": ["yii2", "framework", "basic", "application template"],
-	"homepage": "http://www.yiiframework.com/",
+	"homepage": "http://www.infinetechnologies.com/",
 	"type": "project",
 	"license": "BSD-3-Clause",
 	"support": {
